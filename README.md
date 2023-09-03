@@ -8,7 +8,7 @@ Esta função permite realizar várias operações de processamento de texto em 
 Para usar a função, primeiro importe-a no seu código:
 
 ```javascript
-const processText = require('./sua-funcao-de-processamento-de-texto');
+const processText = require('desacento');
 ```
 
 ### A seguir, você pode chamar a função processText() com a string que deseja processar e um objeto de opções.
