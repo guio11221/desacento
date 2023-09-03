@@ -1,0 +1,25 @@
+{
+  "name": "desacento",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node exemple.js"
+  },
+  "keywords": [
+    "acento",
+    "func",
+    "letras",
+    "README.md"
+  ],
+  "author": "Guii Santos",
+  "homepage": "https://github.com/guio11221/desacento.git",
+  "repository": {
+    "url": "https://github.com/guio11221/desacento.git"
+  },
+  "files": [
+    "teste.js",
+    "index.js"
+  ],
+  "license": "ISC"
+}

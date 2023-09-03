@@ -1,0 +1,23 @@
+Ordenar Palavras: Adicione uma opção para ordenar as palavras na string em ordem alfabética.
+
+Remover Tags HTML: Uma opção para remover todas as tags HTML da string.
+
+Conversão de Caracteres Especiais HTML: Adicione uma opção para converter caracteres especiais HTML, como < e &, em suas representações HTML (&lt; e &amp;).
+
+Contar Ocorrências: Implemente uma opção que permite contar quantas vezes um determinado caractere ou sequência de caracteres aparece na string.
+
+Validação Personalizada: Crie uma opção que permita aos usuários fornecer uma expressão regular personalizada para validar a string.
+
+Limite de Comprimento Personalizado: Adicione a capacidade de definir um limite de comprimento máximo ou mínimo para a string.
+
+Remover Números: Opção para remover todos os dígitos numéricos da string.
+
+Codificação/Decodificação URL: Implemente opções para codificar e decodificar URLs.
+
+Contar Letras/Consoantes: Opções para contar o número de letras e consoantes na string.
+
+Validação de Data: Adicione uma opção para validar se a string representa uma data válida.
+
+Verificar Se Começa/Termina Com: Opções para verificar se a string começa ou termina com uma determinada sequência de caracteres.
+
+Extrair Substrings: Permita aos usuários extrair uma parte específica da string com base em índices ou posições.
