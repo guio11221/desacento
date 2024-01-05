@@ -1,5 +1,5 @@
 
-# Desacento# Função de Processamento de Texto
+# Desacento Função de Processamento de Texto
 
 Esta função permite realizar várias operações de processamento de texto em uma string. Ela oferece uma variedade de opções para personalizar o processamento de acordo com suas necessidades.
 
